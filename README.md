@@ -1,6 +1,7 @@
 # projet-2_visualisez-des-donnees-avec-Excel
 
 Data Analyst - OpenClassrooms - Sofiane ALLA - Novembre 2024
+
 Analyse de la clientèle de PRIMERO BANK
 
 Objectifs de l’analyse
